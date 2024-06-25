@@ -16,6 +16,7 @@ Insight can help you with your GitHub Copilot adoption journey. Find out more by
 - [GitHub Copilot Hackathon](https://github.com/GitHub-Partner-Demo-Library/MicrosoftCopilotHackathon) (Node, Java, Python, C#)
 - [GitHub Copilot Lab](https://github.com/Insight-Services-APAC/copilot-lab-music-store-typescript) (JavaScript, Typescript)
 - [GitHub Copilot Lab in R](https://github.com/Insight-Services-APAC/copilot-lab-r) (statistical computing using R)
+- [GitHub Copilot Lab for SQL](https://github.com/Insight-Services-APAC/copilot-lab-sql) (database development using Structured Query Language (SQL))
 
 ## Visual Studio 2022+
 

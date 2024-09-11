@@ -11,6 +11,7 @@ Insight can help you with your GitHub Copilot adoption journey. Find out more by
 
 ## Visual Studio Code (or GitHub Codespaces)
 
+- [Copilot Node Calculator](https://github.com/GitHub-Insight-ANZ-Lab/copilot-node-calculator) (Based on one of the workshops in the next link, but added 7 more challenges to cover more features).
 - [GitHub Copilot Workshops](https://github.com/copilot-workshops) (Node, Python and Terraform)
 - [Mastering GitHub Copilot for AI Paired Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) (JavaScript, Python and C#)
 - [GitHub Copilot Hackathon](https://github.com/GitHub-Partner-Demo-Library/MicrosoftCopilotHackathon) (Node, Java, Python, C#)

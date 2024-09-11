@@ -14,12 +14,12 @@ Insight can help you with your GitHub Copilot adoption journey. Find out more by
 - [GitHub Copilot Workshops](https://github.com/copilot-workshops) (Node, Python and Terraform)
 - [Mastering GitHub Copilot for AI Paired Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) (JavaScript, Python and C#)
 - [GitHub Copilot Hackathon](https://github.com/GitHub-Partner-Demo-Library/MicrosoftCopilotHackathon) (Node, Java, Python, C#)
-- [SPA Music Store with GitHub Copilot](https://github.com/Insight-Services-APAC/copilot-lab-music-store-typescript) (Single Page App with TypeScript, Node & Next.js)
-- [GitHub Copilot Lab in R](https://github.com/Insight-Services-APAC/copilot-lab-r) (statistical computing using R)
-- [GitHub Copilot Lab for SQL](https://github.com/Insight-Services-APAC/copilot-lab-sql) (database development using Structured Query Language (SQL))
+- [GitHub Copilot Lab in R](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-r) (statistical computing using R)
+- [GitHub Copilot Lab for SQL](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-sql) (database development using Structured Query Language (SQL))
+- [SPA Music Store with GitHub Copilot](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-music-store-typescript) (Single Page App with TypeScript, Node & Next.js)
 
 ## Visual Studio 2022+
 
-- [MVC Music Store with GitHub Copilot](https://github.com/Insight-Services-APAC/copilot-lab-music-store) (C#)
+- [MVC Music Store with GitHub Copilot](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-music-store-csharp) (C#)
 
 Know any other workshops or labs we're missing, submit an Issue or PR and we'll consider adding them!
